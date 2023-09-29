@@ -1,0 +1,33 @@
+.paragraph-1{
+    color: blue;
+}
+.paragraph-2{
+    color: green;
+}
+#my-cohort-number{
+    background-color: dodgerblue;
+}
+.paragraph-3{
+    color: blueviolet;
+}
+body{
+    background-color:beige;
+}
+.city{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#city{
+    font-weight:normal;
+    font-family:'Courier New', Courier, monospace;
+}
+.paragraph-4{
+    font-weight: normal;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.paragraph-5{
+    font-weight: normal;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
